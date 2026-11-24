@@ -1,0 +1,6 @@
+{
+  "name": "thanksgiving",
+  "version": "0.1.0",
+  "description": "A cozy Thanksgiving den: crackling fireplace, the big game on TV, and a giant feast that gets eaten as the context window fills",
+  "types": "./types/index.d.ts"
+}

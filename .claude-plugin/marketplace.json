@@ -1,0 +1,5 @@
+{
+  "name": "thanksgiving-mod",
+  "owner": { "name": "shannoj" },
+  "plugins": [{ "name": "thanksgiving", "source": "./" }]
+}
